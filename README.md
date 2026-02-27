@@ -1,2 +1,2 @@
-# Meu_curriculo
-Meu currículo
+# portfolio-web
+Portfólio pessoal desenvolvido com HTML, CSS, JavaScript e Bootstrap.
